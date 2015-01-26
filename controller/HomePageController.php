@@ -1,6 +1,6 @@
 <?php
 
-class HomePageController {
+class HomePageController extends Controller {
 
 	public function HomePageController() {
 		//konstruktor
